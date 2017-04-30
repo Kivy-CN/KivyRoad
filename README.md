@@ -10,7 +10,7 @@ Kivy 基于 Python，界面文件和程序文件相互分离的设计思路，�
 
 ## 我们这个项目弄什么？
 
-之前我翻译的[Kivy 中文开发指南](https://github.com/cycleuser/Kivy-CN)
+之前我翻译的 [Kivy 中文开发指南](https://github.com/cycleuser/Kivy-CN)
 
 后来小曹同学在我们的[知乎专栏](https://zhuanlan.zhihu.com/python-kivy)开始陆续翻译 Kivy API 文档。
 
